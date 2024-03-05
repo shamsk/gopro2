@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"./database"
+	"github.com/shamsk/gopro2/tree/master/database"
 	
 	
 )
